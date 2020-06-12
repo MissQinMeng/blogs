@@ -1,0 +1,13 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "--- home: true heroImage: /img/logo.jpeg actionText: 进入我的博客 actionLink: /frontEnd/",
+  "main": "index.js",
+  "scripts": {
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
